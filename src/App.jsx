@@ -66,7 +66,7 @@ export default function App() {
               </S.Actions>
             </div>
            <Reveal v="scale" d={300}>
-            <Slot src="/img/colombraro-portada.webp" ratio="4/5" alt="Entrada del local Colombraro" />
+            <Slot src="/img/colombraro-portada1.webp" ratio="4/5" alt="Entrada del local Colombraro" />
           </Reveal>
 
           </S.HeroGrid>
